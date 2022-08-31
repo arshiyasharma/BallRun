@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ColorPanel
+comment1.params=backColor\ width\ height
+comment1.target=ColorPanel(java.awt.Color,\ int,\ int)
+comment10.params=e
+comment10.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment11.params=e
+comment11.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment12.params=e
+comment12.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=c
+comment4.target=void\ resetCircle(Circle)
+comment5.params=circ
+comment5.target=boolean\ checkCollision(Circle)
+comment6.params=
+comment6.target=void\ up()
+comment7.params=
+comment7.target=void\ down()
+comment8.params=
+comment8.target=void\ left()
+comment9.params=
+comment9.target=void\ right()
+numComments=13
